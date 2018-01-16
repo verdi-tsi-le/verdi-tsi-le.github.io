@@ -57,3 +57,10 @@ ul.posts li {
   transform: rotate(-7.5deg);
   border-radius: 0px;
 }
+
+.shape>.content {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  transform: rotate(+7.5deg);
+}
